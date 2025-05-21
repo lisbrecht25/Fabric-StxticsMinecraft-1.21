@@ -1,5 +1,7 @@
 {
-  "item.stxtics-minecraft.replenish_book": "Replenish Book",
+  "item.stxtics-minecraft.replenish_book": "Enchanted Book",
   "item.stxtics-minecraft.lead_ingot": "Lead Ingot",
-  "item.stxtics-minecraft.raw_lead": "Raw Lead"
+  "item.stxtics-minecraft.raw_lead": "Raw Lead",
+
+  "block.stxtics-minecraft.lead_block": "Lead Block"
 }
